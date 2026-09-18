@@ -3,3 +3,10 @@ numpy
 matplotlib
 scikit-learn
 xgboost
+
+streamlit
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+openpyxl
